@@ -164,7 +164,7 @@ information on the game metrics.
 Teams
 -----
 
-The Teams module exposes information for all MLB teams including the team name
+The Teams module exposes information for all NFL teams including the team name
 and abbreviation, the number of games they won during the season, the average
 margin of victory, and much more.
 
